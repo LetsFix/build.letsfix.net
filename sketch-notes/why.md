@@ -1,4 +1,4 @@
-Why is MTM important?
+Why is LFx important?
 
 Because it effects every single last one of us. Because it has the chance to radically improve your quality of life. Because you care about principals like life, liberty, and the pursuit of happiness. And democracy.
 
