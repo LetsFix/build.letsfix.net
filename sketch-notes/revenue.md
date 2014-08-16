@@ -1,4 +1,4 @@
-LFX Rocket Fuel (Revenue)
+## LFx Rocket Fuel (Revenue)
 
 The more revenue Lfx generates, the more we can accomplish. It is certainly not the main goal of the project, just as rocket fuel is not the purpose of rockets.
 
