@@ -20,7 +20,18 @@ LFX Rocket Fuel (Revenue)
   + recurring monthly revenue
   ! What does MVP look like?
 
-4. Charity
+4. Signup Fee
+  * One time charge to create account
+    * $5 ?
+    * Could enable creating new content, reading still be free
+    * Would this reduce spam?
+  * Used by:
+    * [pinboard.im] 
+      * see this article describing the model's virtues: http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041/?single_page=true
+    * MetaFilter
+    * SomethingAwful
+
+5. Charity
   * Gittip:
     * How to share? Who?
     * How much coming in?
