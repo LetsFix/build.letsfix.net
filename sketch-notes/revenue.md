@@ -30,7 +30,7 @@ The more revenue Lfx generates, the more we can accomplish. It is certainly not 
     * Could enable creating new content, reading still be free
     * Would this reduce spam?
   * Used by:
-    * [pinboard.im] 
+    * [pinboard.i](https://pinboard.in/help/fee/)
       * see this article describing the model's virtues: http://www.theatlantic.com/technology/archive/2014/08/advertising-is-the-internets-original-sin/376041/?single_page=true
     * MetaFilter
     * SomethingAwful
