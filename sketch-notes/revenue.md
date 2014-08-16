@@ -1,5 +1,9 @@
 LFX Rocket Fuel (Revenue)
 
+The more revenue Lfx generates, the more we can accomplish. It is certainly not the main goal of the project, just as rocket fuel is not the purpose of rockets.
+
+##### Here are revenue model options:
+
 1. Advertising
   * Standard:
      * used by: Reddit, Stack Overflow, Google, Faceook, Twitter
