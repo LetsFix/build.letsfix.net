@@ -6,7 +6,7 @@ What are the problems in your community?
 
 Example communities: [lfx] [world / all] [nyc] [dfw] [src] [smu] [ghs] [347] 
 
-• Don't worry about grammar or phrasing. 
-• Aim for speed.
+* Don't worry about grammar or phrasing. 
+* Aim for speed.
 
-You can give you a record of what you've sent this way.
+We can give you a record of what you've sent this way.
