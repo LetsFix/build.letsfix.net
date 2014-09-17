@@ -1,4 +1,4 @@
-### "It's not my problem."
+### "That's not my problem."
 
 That may be true, but that doesn't mean that it's nobody's problem.
 
