@@ -1,3 +1,14 @@
+### More than just reading yet another depressing piece of news
+
+Do you ever find yourself reading yet another pessimistic news article, describing yet another horrible thing going on in the world?
+
+What do they even expect you to do about it? What could you even do?
+
+
+--------
+
+
+
 Why would you want to Lfx a news article about something terrible? Compared with sharing it on social networks, or via email?
 
 
